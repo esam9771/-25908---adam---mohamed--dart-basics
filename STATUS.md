@@ -2,7 +2,7 @@
 
 ## Done
 - Repository setup, README, and personal constants block 
-- Part A & Part B trace questions and Dart functions (B2, B3, C5, D2)
+- Part A & Part B trace questions and Dart functions (B2, B3, C5, D2) and all other questions
 
 ## In progress
 - None
